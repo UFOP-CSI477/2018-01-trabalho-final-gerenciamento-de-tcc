@@ -29,3 +29,6 @@
 
 <strong>4 Repositório</strong>
 <p>O prototipo do trabalho final terá como repositório principal o seguinte endereço: https://github.com/UFOP-CSI477/2018-01-trabalho-final-gerenciamento-de-tcc</p>
+
+<strong>4 Referencias</strong>
+Template de base retirado de https://colorlib.com/preview/#startup
